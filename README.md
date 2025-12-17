@@ -28,34 +28,26 @@
 
 ## Featured Work
 
-### 🛡️ AI Safety
-**[AI-Guards](https://github.com/AI-Guards)** — BiasGuard, ContextGuard, TrustGuard  
-Production tools for bias detection and AI output validation
+### 🤖 Jarvis_AI
+Local-first, multi-agent AI orchestration framework designed for high-performance, complex task solving.
 
-### 🧬 Phylogenic AI
-**[allele-ai](https://github.com/jimmyjdejesus-cmyk/allele-ai)** — Evolving AI through biological principles  
-Genetic optimization for AI personalities with liquid memory
+### 🧬 allele-ai
+Phylogenic AI Agents — Beyond prompt engineering. Evolve genetically optimized personalities with liquid memory.
 
-### 🧠 Neuromorphic Computing
-**[SpikingBrain](https://github.com/jimmyjdejesus-cmyk)** — Brain-inspired architectures  
-100-1000x energy efficiency through neuromorphic computing
+### 🧠 Abeone-Wetware-Core
+Core codebase for wetware architecture research — bridging biological and silicon computing.
 
-### 🤖 Multi-Agent Systems
-**[Jarvis_AI](https://github.com/jimmyjdejesus-cmyk)** — 149-agent meta-orchestrator  
-Scalable coordination based on [agent scaling laws](https://github.com/jimmyjdejesus-cmyk/agent-scaling-laws)
+### 🛡️ TokenGuard
+Production-ready microservice for intelligent AI response pruning based on confidence analysis.
+
+### 💬 agent-ui
+Turn private documents into a chatbot using off-the-shelf tools and commercially viable AI technologies.
+
+### ⚡ aiagentsuite
+Enterprise-level LSP/MCP server for AI agent orchestration.
 
 ---
 
 ## Organizations
 
 [AI-Guards](https://github.com/AI-Guards) · [PhylogenicAIAgents](https://github.com/PhylogenicAIAgents) · [NS-AI-Suite](https://github.com/NS-AI-Suite) · [SysDesign-As-Code](https://github.com/SysDesign-As-Code-SDaC)
-
----
-
-<div align="center">
-
-*Building the future of AI — one neuron at a time*
-
-**58 repos** · **8 orgs** · **Florida, USA**
-
-</div>
