@@ -37,6 +37,12 @@ Phylogenic AI Agents — Beyond prompt engineering. Evolve genetically optimized
 ### 🧠 Abeone-Wetware-Core
 Core codebase for wetware architecture research — bridging biological and silicon computing.
 
+### 📊 agent-scaling-laws
+Implementation of 5 agent architectures based on DeepMind's "Towards a Science of Scaling Agent Systems" research.
+
+### 📈 Dynamic_Trading_Bot
+Neuromorphic trading bot with sub-millisecond pattern detection, multi-agent swarm, and 7-judge AI jury governance.
+
 ### 🛡️ TokenGuard
 Production-ready microservice for intelligent AI response pruning based on confidence analysis.
 
