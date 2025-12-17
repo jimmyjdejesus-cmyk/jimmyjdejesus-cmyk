@@ -28,10 +28,10 @@
 
 ## Featured Work
 
-### 🤖 Jarvis_AI
+### 🤖 adaptivemind
 Local-first, multi-agent AI orchestration framework designed for high-performance, complex task solving.
 
-### 🧬 allele-ai
+### 🧬 phylogenic-AI-agents
 Phylogenic AI Agents — Beyond prompt engineering. Evolve genetically optimized personalities with liquid memory.
 
 ### 🧠 Abeone-Wetware-Core
